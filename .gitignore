@@ -4,6 +4,7 @@ target
 .project
 .classpath
 .svn
+.DS_Store
 
 *.iml
 /out
